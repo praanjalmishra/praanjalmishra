@@ -1,6 +1,6 @@
 Hi! I'm a robotics software engineer working on 3D perception and real-time autonomy for physical vehicles and robots. I build and deploy multi-sensor pipelines (stereo, RGB-D, LiDAR) for pose estimation, 3D geometry, and sensor fusion under real-time constraints on embedded Linux (NVIDIA Jetson), using C++ and Python with ROS 2. My work spans camera/sensor calibration, perception-to-control integration, and taking systems from prototype to reliable operation on real hardware.
 
-I completed my MSc in [Computational Science & Engineering](https://rw.ethz.ch/) (Robotics & Computer Vision) at [ETH Zürich](https://ethz.ch/en.html).
+I completed my MSc in Computational Science & Engineering (Robotics & Computer Vision) at [ETH Zürich](https://ethz.ch/en.html).
 
 ---
 
