@@ -7,8 +7,6 @@ I completed my MSc in [Computational Science & Engineering](https://rw.ethz.ch/)
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praanjalmishra&show_icons=true)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=praanjalmishra)
 
 ## 📊 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praanjalmishra&layout=compact&hide=html,jupyter%20notebook)
@@ -20,6 +18,7 @@ I completed my MSc in [Computational Science & Engineering](https://rw.ethz.ch/)
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
 </p>
 
 ### 🤖 Robotics & Perception
@@ -32,6 +31,8 @@ I completed my MSc in [Computational Science & Engineering](https://rw.ethz.ch/)
 ### 🔥 Deep Learning & ML
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikit-learn"/>
 </p>
 
 ### 🛠️ Development Tools
