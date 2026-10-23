@@ -2,6 +2,9 @@ Hi! I'm a robotics software engineer working on 3D perception and real-time auto
 
 I completed my MSc in Computational Science & Engineering (Robotics & Computer Vision) at [ETH Zürich](https://ethz.ch/en.html).
 
+ 📫 How to reach me pranjalmishra1751 |at| gmail.com
+
+- [My Website](https://praanjalmishra.github.io/)
 ---
 
 ## 📊 GitHub Stats
